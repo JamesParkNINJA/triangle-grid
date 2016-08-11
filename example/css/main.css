@@ -1,0 +1,13 @@
+/* -------- ▲ main -------- */
+
+body {
+    font-family:sans-serif;
+}
+.box {
+    background:#cccccc;
+    border-radius:15px;
+    height:125px;
+    text-align:center;
+    line-height:125px;
+    width:100%;
+}

@@ -12,3 +12,12 @@
 - **.angle**: An auto-spaced flexbox cell/column. **!!** DOES NOT WORK IN IE9, USE THE BELOW FOR THIS INSTEAD **!!**
 - **.ang**: Used to begin a determined width cell/column.
   - **.le-(1 to 24)**, **.le-(quarter, third, half, full)**: The percentage based cell/column widths, based on a 24 section grid.
+  
+### Dependencies
+
+For < IE9, we require some polyfills and dependencies from the following:
+
+* [Modernizr](https://modernizr.com/)
+* [Respond](https://github.com/scottjehl/Respond)
+
+(Thanks all!)

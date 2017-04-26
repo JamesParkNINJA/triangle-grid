@@ -4,7 +4,7 @@
 - Supports all modern browsers natively
 - Supports IE9+ with **respond** & **modernizr** as small dependencies
 
-[Donate me a beer!](https://www.paypal.me/jamesparkninja/4)
+Like what I do? [Donate me a beer!](https://www.paypal.me/jamesparkninja/4)
 
 ### Syntax
 

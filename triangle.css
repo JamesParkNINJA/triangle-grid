@@ -114,7 +114,7 @@
     ?width: 45.8023%;
 }
 
-.le-12, .le-half {
+.le-12, .le-half, .le-quarter-2 {
     width: 50%;
     ?width: 49.9690%;
 }
@@ -134,7 +134,7 @@
     ?width: 62.4690%;
 }
 
-.le-16 {
+.le-16, .le-third-2 {
     width: 66.6667%;
     ?width: 66.6357%;
 }
@@ -144,7 +144,7 @@
     ?width: 70.8023%;
 }
 
-.le-18 {
+.le-18, .le-quarter-3 {
     width: 75%;
     ?width: 74.9690%;
 }
@@ -174,7 +174,7 @@
     ?width: 95.8023%;
 }
 
-.le-24, .le-full {
+.le-24, .le-full, .le-half-2 {
     width: 100%;
 }
 

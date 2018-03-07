@@ -22,6 +22,6 @@ For < IE9, we either require some polyfills and dependencies from the following:
 * [Modernizr](https://modernizr.com/)
 * [Respond](https://github.com/scottjehl/Respond)
 
-Or can use the **triangle-fallback.css** wrapped in a <!--[if lte IE 9]><![endif]--> comment.
+Or can use the **triangle-fallback.css** wrapped in a `<!--[if lte IE 9]><![endif]-->` comment.
 
 (Thanks all!)
